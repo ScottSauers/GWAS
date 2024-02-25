@@ -1,3 +1,5 @@
+# partly based off of the GWAS tutorial notebook
+
 import pandas
 import os
 
